@@ -1,2 +1,2 @@
 # JEPCnvim
-(Recursos/Powershell.png)
+![Terminal PowerShell](Recursos/Powershell.png)
